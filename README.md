@@ -10,7 +10,7 @@ Com o objetivo de criar um Web Site de uma conferência, conténdo informaçoes 
 ![prototipo](src/img/pangel.png)
 
 - Palestrantes
-![prototipo](src/img/speakers.png)
+![prototipo](src/img/speaker.png)
 
 - Formulário de Inscrição
 ![prototipo](src/img/form.png)
