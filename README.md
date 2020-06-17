@@ -7,12 +7,12 @@ Com o objetivo de criar um Web Site de uma conferência, conténdo informaçoes 
 
 ### Projeto Finalizado
 - Início:
-![prototipo](src/images/panel.png)
+![prototipo](src/img/pangel.png)
 
 - Palestrantes
-![prototipo](src/images/speakers.png)
+![prototipo](src/img/speakers.png)
 
 - Formulário de Inscrição
-![prototipo](src/images/form.png)
+![prototipo](src/img/form.png)
 
 
